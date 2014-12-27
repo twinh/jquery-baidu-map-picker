@@ -1,0 +1,22 @@
+{
+  "name": "jquery-baidu-map-picker",
+  "main": "jquery-baidu-map-picker.js",
+  "version": "0.9.0",
+  "homepage": "https://github.com/twinh/jquery-baidu-map-picker",
+  "authors": [
+    "Twin Huang <twinhuang@qq.com>"
+  ],
+  "keywords": [
+    "baidu",
+    "map picker",
+    "address picker"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
